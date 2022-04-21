@@ -1,0 +1,46 @@
+head,
+h1 {
+
+	font-size: 25px;
+	text-align: center;
+	padding-top: 0;
+	background: rgb(5, 170, 224, .8);
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+
+body {
+	background: rgb(4, 134, 205);
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.content {
+	max-width: 1100px;
+	margin: auto;
+	background: white;
+	padding: 50px;
+}
+
+table,
+th,
+td {
+	border: 1px solid black;
+	margin: auto;
+	padding: 50px;
+}
+
+#wrapper {
+	margin-top: 10% !important;
+}
+
+#content {
+	background: beige;
+	padding: 25px;
+}
+
+
+
+footer {
+	margin-top: 20px;
+	color: white;
+}
